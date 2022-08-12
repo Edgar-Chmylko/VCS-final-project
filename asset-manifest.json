@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VCS-final-project/static/css/main.410dc9f2.css",
+    "main.js": "/VCS-final-project/static/js/main.0fdb4f3e.js",
+    "index.html": "/VCS-final-project/index.html",
+    "main.410dc9f2.css.map": "/VCS-final-project/static/css/main.410dc9f2.css.map",
+    "main.0fdb4f3e.js.map": "/VCS-final-project/static/js/main.0fdb4f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.410dc9f2.css",
+    "static/js/main.0fdb4f3e.js"
+  ]
+}
